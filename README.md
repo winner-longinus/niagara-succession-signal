@@ -24,7 +24,7 @@ The project combines public business, demographic, employment, and business-dyna
 
 Core Research Question
 
-«Which small businesses in Niagara Region are most exposed to succession-related closure risk, how many jobs could be affected, where is the risk concentrated, and what actions could reduce the potential impact?»
+Which small businesses in Niagara Region are most exposed to succession-related closure risk, how many jobs could be affected, where is the risk concentrated, and what actions could reduce the potential impact?
 
 ---
 
@@ -97,23 +97,41 @@ Project Approach
 The project will follow a reproducible analytical workflow:
 
 Data Sources
-     ↓
+    
+ ↓
+
 Data Collection
-     ↓
+    
+ ↓
+
 Data Cleaning & Processing
-     ↓
+   
+↓
+
 Exploratory Analysis
-     ↓
+     
+↓
+
 Succession-Risk Analysis
-     ↓
+     
+↓
+
 Forecasting / Predictive Modeling
-     ↓
+     
+
+
 Employment & Local-Economy Impact
-     ↓
+     
+↓
+
 Visualizations
-     ↓
+     
+↓
+
 Playbook & Remediation Recommendations
-     ↓
+     
+↓
+
 Final Reports & Project Assets
 
 ---
