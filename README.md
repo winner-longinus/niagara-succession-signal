@@ -237,15 +237,6 @@ niagara-succession-signal/
 ├── requirements.txt
 └── .gitignore
 
-Folder Functions
-
-Folder| Purpose
-"data/"| Project datasets and data-related resources
-"notebooks/"| Exploratory analysis, experiments, and modeling notebooks
-"src/"| Reusable Python source code
-"outputs/"| Generated charts, tables, predictions, and analytical outputs
-"reports/"| Formal project reports and written deliverables
-"docs/"| Methodology, decisions, documentation, and reproducibility information
 
 Each folder contains its own README explaining its purpose and how its contents should be organized.
 
